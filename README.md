@@ -1,5 +1,3 @@
-# RealPiano AR
-
 Real Piano is an augmented reality application that allows you to project notes to play on top of your piano, accelerating the time it takes to master your favorite songs.
 
 In this app you can:
