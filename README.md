@@ -11,7 +11,7 @@ In this app you can:
 Real Piano is a free app. This SERVICE is provided by Zelda Labs at no cost and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 This app does not collect any information and runs completely offline.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at PianoVision unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Real Piano unless otherwise defined in this Privacy Policy.
 ‍
 ## Information Collection and Use
 This app does not collect any type of information.
